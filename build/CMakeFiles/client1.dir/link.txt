@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++0x  -rdynamic CMakeFiles/client1.dir/src/client1.cpp.o  -o client1 -Wl,-rpath,/home/osboxes/work/repositories/vsomeip/build /home/osboxes/work/repositories/vsomeip/build/libvsomeip.so.2.10.21 -lboost_system -lboost_thread -lpthread -lboost_log -lboost_chrono -lboost_date_time -lboost_atomic -lboost_log_setup -lboost_filesystem -lboost_regex 

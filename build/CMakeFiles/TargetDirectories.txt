@@ -1,0 +1,4 @@
+/home/osboxes/work/workspace/vsomeIP_example/build/CMakeFiles/rebuild_cache.dir
+/home/osboxes/work/workspace/vsomeIP_example/build/CMakeFiles/edit_cache.dir
+/home/osboxes/work/workspace/vsomeIP_example/build/CMakeFiles/service1.dir
+/home/osboxes/work/workspace/vsomeIP_example/build/CMakeFiles/client1.dir
